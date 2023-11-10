@@ -2,7 +2,7 @@
 computer network is essentially a communication system , where some devices, which have communication
 capability are connected with each other by some medium of communication , so that they can share information among theemselves.
 
-**Data Communication over network follow two approach 1) Circuit Switching 2) Packet Switching**
+**Data Communication over network follow two approach 1) Circuit Switching 2) Packet Switching** <br>
 **Circuit switching** is a communication method where a dedicated communication path, or circuit, is established between two devices before data transmission begins. The circuit remains dedicated to the communication for the duration of the session, and no other devices can use it while the session is in progress. Circuit switching is commonly used in voice communication and some types of data communication.
 
 **Packet switching** is a communication method where data is divided into smaller units called packets and transmitted over the network. Each packet contains the source and destination addresses, as well as other information needed for routing. The packets may take different paths to reach their destination, and they may be transmitted out of order or delayed due to network congestion.
